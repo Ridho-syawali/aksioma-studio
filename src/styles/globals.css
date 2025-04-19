@@ -5,4 +5,5 @@ body {
   color: var(--foreground);
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
+  background-color: #fafafa;
 }
